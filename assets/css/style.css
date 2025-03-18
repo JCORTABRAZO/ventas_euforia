@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navegacion{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+}
+
+.navegacion{
+    color: #fff;
+    text-decoration: none;
+    padding: 20px;
+}
